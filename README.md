@@ -9,6 +9,9 @@ An articulated and interactive object in the shape of a swimming fish developed 
 - Implement a material selection menu attached to the left button of mouse  
 - Add animation to the fish which is swimming from one side of the window to the other  
 
+## Demo
+![](https://github.com/fanyuR/3D-SwimmingFish/blob/master/demo/demo_fish.gif)
+
 ## Key Points
 Hierarchical modelling  
 Model rendering  
